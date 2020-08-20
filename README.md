@@ -40,3 +40,9 @@
 
 - [miike7687](https://github.com/miike7687)
 - michaeladam.haber@gmail.com
+
+#### Screen Shots:
+
+![Screen Shot 2020-08-20 at 7 45 07 PM](https://user-images.githubusercontent.com/66644273/90836731-2a836680-e31e-11ea-894f-45f1cc2a4bd2.png)
+
+![Screen Shot 2020-08-20 at 7 45 16 PM](https://user-images.githubusercontent.com/66644273/90836782-4850cb80-e31e-11ea-9488-45101a75bc56.png)
