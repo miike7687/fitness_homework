@@ -1,0 +1,42 @@
+# Fitness Tracker
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+
+1. [Description](#description)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [License](#license)
+5. [Contributing](#contributing)
+6. [Tests](#tests)
+7. [Questions](#questions)
+
+### Description
+
+- This is an application that allows a user to track their fitness workouts to see progress on how long they've worked out, how many pounds they've lifted, how many miles they've run, which days they worked out, and more.
+
+### Installation
+
+- I've installed this application using node, express, mongoose, and mondodb
+
+### Usage
+
+- I plan on using this to track my fitness during this pandemic.
+
+### License
+
+- This application is covered under MIT.
+
+### Contributing
+
+- I plan to continue to update this application as I learn new technologies.
+
+### Tests
+
+- No tests were run for this application.
+
+#### Questions
+
+- [miike7687](https://github.com/miike7687)
+- michaeladam.haber@gmail.com
