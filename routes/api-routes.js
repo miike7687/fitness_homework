@@ -5,6 +5,7 @@ module.exports = function (app) {
     Workout.find({})
       .then((data) => {
         res.json(data);
+        console.log(data);
       })
       .catch((err) => {
         res.json(err);
@@ -13,7 +14,10 @@ module.exports = function (app) {
 
   app.post("/api/workouts", (req, res) => {
     Workout.create({})
-      .then((data) => res.json(data))
+      .then((data) => {
+        res.json(data);
+        console.log(data);
+      })
       .catch((err) => {
         res.json(err);
       });
